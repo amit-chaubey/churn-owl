@@ -48,7 +48,7 @@ streamlit run src/app.py
 ### Streamlit Cloud Deployment
 
 1. Push to GitHub
-2. Visit [share.streamlit.io](https://share.streamlit.io)
+2. Visit [share.streamlit.io](https://amit-churn-owl.streamlit.app/)
 3. Connect your GitHub account
 4. Deploy with one click
 
